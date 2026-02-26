@@ -18,4 +18,4 @@
   - HTML
   - CSS
   - JavaScript
-  - **(Contuação de Web Design - 2º Semestre)**
+  - **(Continuação de Web Design - 2º Semestre)**
