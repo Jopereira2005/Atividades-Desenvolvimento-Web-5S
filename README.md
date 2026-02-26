@@ -8,10 +8,10 @@
 
 ## Membros
 
-  João Augusto Pereira Vieira (Jopereira2005)
-  Rui Anderson Cruzeiro Prado Pereira (Rui-Ander)
-  Victor Rafael Soares Otacílio (DoctorFlin)
-  Gabriel Moreira Nazareno (moreiraeam)
+  - João Augusto Pereira Vieira (Jopereira2005)
+  - Rui Anderson Cruzeiro Prado Pereira (Rui-Ander)
+  - Victor Rafael Soares Otacílio (DoctorFlin)
+  - Gabriel Moreira Nazareno (moreiraeam)
 
 ## Tecnologias
 
