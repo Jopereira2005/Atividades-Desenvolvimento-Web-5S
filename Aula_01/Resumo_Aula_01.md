@@ -1,4 +1,5 @@
-# Resumo – Aula 01  
+# Resumo – Aula 01
+
 Disciplina: Desenvolvimento Web  
 
 ## 1. Apresentação da Disciplina
@@ -89,13 +90,15 @@ CMS permitem criar e gerenciar sites sem codificação intensiva, oferecendo rec
 
 Website builders são ferramentas que permitem criar sites sem necessidade de programação manual.
 
-### Vantagens:
+### Vantagens
+
 - Facilidade de uso;
 - Rapidez no desenvolvimento;
 - Custo-benefício;
 - Templates responsivos.
 
-### Limitações:
+### Limitações
+
 - Flexibilidade limitada;
 - Possíveis problemas de performance;
 - Dificuldade de migração futura.
